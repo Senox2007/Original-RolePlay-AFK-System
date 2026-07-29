@@ -19,6 +19,12 @@
 PNG ajánlott méret: 128x128 vagy 256x256 (power of 2).
 Átlátszósághoz DXT5 formátum.
 
+## Előnézet
+
+![AFK System Preview 1](https://media.discordapp.net/attachments/1520063487353815165/1532021097619263601/image.png?ex=6a6b5555&is=6a6a03d5&hm=b1adfe947d524268593431842a9a533440edbde83480356acef1c2b3758f8a6f&=&format=webp&quality=lossless&width=1522&height=856)
+
+![AFK System Preview 2](https://media.discordapp.net/attachments/1520063487353815165/1532021133233225849/image.png?ex=6a6b555d&is=6a6a03dd&hm=30cadaa29c3862def9fac7931a4bdfab5ea09123189fa020e01505e655592740&=&format=webp&quality=lossless&width=1522&height=856)
+
 
 ## Verzió
 
